@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ddevSharma
-- 👀 I’m interested in Developing.
-- 🌱 I’m currently learning Dynamic Programming.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Developer.
+- 🌱 I’m currently having a deep dive in Agentic Ocean.
+- 🤝I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
 
